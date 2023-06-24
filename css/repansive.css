@@ -1,0 +1,116 @@
+
+@media (max-width:1400px) {
+    .box-welcome h1{
+       text-align: center;
+    }
+}
+
+@media (min-width:930px)and (max-width:1400px){
+    .box2-cars h2{
+
+        font-size: 26px;
+        text-align: center;
+    }
+
+}
+
+
+@media (max-width:800px){
+    .header{
+        flex-direction: column;
+        
+    }
+    .item-header{
+        text-align: center;
+        margin: 5px 0;
+    }
+}
+
+
+@media (min-width:567px)and (max-width:768px){
+    .box2-cars img{
+        height: 250px;
+    }
+}
+
+
+    
+@media (min-width:715px)and (max-width:768px){
+    .box-welcome h1{
+        font-size: 30px;
+        
+    }
+    
+}
+
+@media (max-width:600px){
+    .item-header a{
+        font-size: 20px;
+        
+    }
+}
+
+@media (max-width:578px){
+.box2-cars img{
+    height: 300px;
+}
+}
+
+
+@media  (max-width:500px) {
+    .box-welcome h1{
+        font-size: 23px;
+     }
+     .welcome-text p{
+         font-size: 18px;
+         
+     }
+     .welcome{
+        margin: 20px;
+    }
+     .s{
+        text-align: center;
+     }
+     
+}
+
+@media (max-width:511px){
+    .item-header a{
+        padding: 10px;
+    }
+}
+
+
+
+@media  (min-width:500px){
+    .welcome-text p{
+        font-size: 25px;
+        
+    }
+}
+
+
+
+
+@media (max-width:450px){
+    .header-about{
+        display: none;
+    }
+   
+}
+
+
+@media (max-width:433px){
+    .box-welcome h1{
+        font-size: 20px;
+     }
+}
+
+
+
+
+
+
+
+
+
